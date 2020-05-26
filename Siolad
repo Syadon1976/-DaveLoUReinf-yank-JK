@@ -6,9 +6,9 @@
 // @include        https://w*.crownofthegods.com/o*
 // @version        0.0.2
 // @grant          none
-// ==/UserScript==
 // @updateURL https://github.com/Syadon1976/DaveLoUReinf-yank/JK/raw/master/DaveLoUReinf-yank/JK.user.js
 // @downloadURL https://github.com/Syadon1976/DaveLoUReinf-yank/JK/raw/master/DaveLoUReinf-yank/JK.user.js
+// ==/UserScript==
 
 (function () {
     window.dave = window.dave || function () {};
