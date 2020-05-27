@@ -6,8 +6,8 @@
 // @include        https://w*.crownofthegods.com/o*
 // @version        0.0.2
 // @grant          none
-// @updateURL https://github.com/Syadon1976/-DaveLoUReinf-yank-JK/raw/master/Siolad.user.js
-// @downloadURL https://github.com/Syadon1976/-DaveLoUReinf-yank-JK/raw/master/Siolad.user.js
+// @updateURL https://raw.githubusercontent.com/Syadon1976/-DaveLoUReinf-yank-JK/master/Siolad.user.js
+// @downloadURL https://raw.githubusercontent.com/Syadon1976/-DaveLoUReinf-yank-JK/master/Siolad.user.js
 // ==/UserScript==
 
 (function () {
